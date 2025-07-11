@@ -1,3 +1,5 @@
+Commands
+```
 http://localhost:5000/api/auth/register
 {
   "name": "Dr. Sharma",
@@ -33,5 +35,5 @@ http://localhost:5000/api/booking/       student token to book a appointment
   "availabilityId": "686cec39c874499622340d3a"
 }
 http://localhost:5000/api/booking/me  with student token to get the appointmnet
-
 DELETE http://localhost:5000/api/booking/:id  with professor token 
+```
